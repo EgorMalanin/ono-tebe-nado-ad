@@ -13,14 +13,14 @@
     padding-left: 50px;
     text-underline-offset: 3px;
 }
-.header__link{
+.header__link {
     text-decoration: underline;
 }
 .header__links-list-item_no-bullit {
     list-style: none;
     text-decoration: none;
 }
-.header__link-header__link_active{
+.header__link-header__link_active {
     text-decoration: none;
 }
 .header__logo {
@@ -123,8 +123,8 @@
     font-weight: 400;
     text-transform: uppercase;
     letter-spacing: 0.1em;
-    padding: 12px 22px;
     border: 1px solid rgba(255, 255, 255);
+    padding: 12px 22px;
     cursor: pointer;
 }
 
@@ -151,9 +151,9 @@
 .lots__card-list-item {
     width: 32%;
     min-height: 600px;
-    overflow: hidden; 
+    overflow: hidden;
 }
-.lots__look-more-link{
+.lots__look-more-link {
     margin-left: 40px;
 }
 .card-link {
